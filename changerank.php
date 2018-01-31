@@ -1,7 +1,7 @@
 <?php
 $group_id         = $_GET['3600081'];
 $new_role_set_id  = $_GET['2'];
-$target_user_id   = $_GET['targetUserId'];
+$target_user_id   = $_GET['198484910'];
 
 
 $login_user       = 'username=Jeffsessions123&password=Misteroz03jr2nd';
