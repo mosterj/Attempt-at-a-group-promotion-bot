@@ -1,6 +1,6 @@
 <?php
 $group_id         = $_GET['3600081'];
-$new_role_set_id  = $_GET['2'];
+$new_role_set_id  = $_GET['16644321'];
 $target_user_id   = $_GET['198484910'];
 
 
